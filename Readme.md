@@ -4,7 +4,7 @@ This is a simple Netflix clone built with HTML and CSS. It replicates the basic 
 
 ## Demo
 
-You can view the live demo of the project at: [Your live demo link] (Replace with actual link)
+<img width="1728" alt="Screenshot 2025-03-19 at 2 18 46 AM" src="https://github.com/user-attachments/assets/0b0bbdfc-4a81-43a8-965c-70637b855de5" />
 
 ## Features
 
